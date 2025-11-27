@@ -14,4 +14,5 @@ Native Mini App templates for virtual goods (files, keys, accounts) with anti-le
 RAG Support Agents: Custom LLMs trained on your docs for 24/7 automated support. AI Anti-Spam: Real-time heuristic detection to block scams and raids.
 
 Official Website: https://grambase.ai
+
 Join waitlist to lock in lifetime discount: https://t.me/grambase_ai
